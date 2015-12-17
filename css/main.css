@@ -334,10 +334,46 @@ body{
     bottom: 82px;
 }
 /*slide_11*/
-
-
-
-
+#bg9{
+	position: absolute;
+	top:0;
+	right:0;
+}
+#txt32{
+	position: absolute;
+    top: 175px;
+    left: 144px;
+}
+#txt33{
+	position: absolute;
+    left: 45px;
+    top: 300px;
+}
+#bullet2{
+	  position: absolute;
+    right: 3px;
+    bottom: 291px;
+}
+#bullet1{
+	position: absolute;
+    left: 29px;
+    bottom: 286px;
+}
+#bullet3{
+	  position: absolute;
+    left: 29px;
+    bottom: 139px;
+}
+#bullet4{
+	position: absolute;
+    bottom: 139px;
+    right: 13px;
+}
+#bullet5{
+	position: absolute;
+    bottom: 16px;
+    left: 88px;
+}
 
 
 

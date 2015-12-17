@@ -191,8 +191,41 @@
 	-o-animation-delay: 2.7s;
 	animation-delay: 2.7s;
 }
-
-
+#txt32{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#txt33{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#bullet1{
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+#bullet2{
+	-webkit-animation-delay: 3.2s;
+	-o-animation-delay: 3.2s;
+	animation-delay: 3.2s;
+}
+#bullet3{
+	-webkit-animation-delay: 3.7s;
+	-o-animation-delay: 3.7s;
+	animation-delay: 3.7s;
+}
+#bullet4{
+	-webkit-animation-delay: 4.2s;
+	-o-animation-delay: 4.2s;
+	animation-delay: 4.2s;
+}
+#bullet5{
+	-webkit-animation-delay: 4.7s;
+	-o-animation-delay: 4.7s;
+	animation-delay: 4.7s;
+}
 
 
 
