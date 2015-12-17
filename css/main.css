@@ -194,7 +194,46 @@ body{
 	right: 100px;
 	bottom: 10px;
 }
-
+#bg5{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+#img09{
+	position: absolute;
+	left: 241px;
+	top:227px;
+}
+#txt16{
+	position: absolute;
+	left: 200px;
+	bottom: 350px;
+}
+#txt19{
+	position: absolute;
+	right: 90px;
+	bottom: 332px;
+}
+#txt20{
+	position: absolute;
+	right: 125px;
+	bottom: 228px;
+}
+#txt18{
+	position: absolute;
+	right: 13px;
+	top:263px;
+}
+#txt15{
+	position: absolute;
+	left: 45px;
+	top:212px;
+}
+#txt17{
+	position: absolute;
+	left: 100px;
+	bottom: 230px;
+}
 
 
 
