@@ -23,3 +23,29 @@
 	-o-animation-delay: 1.9s;
 	animation-delay: 1.9s;
 }
+/*slide_4*/
+#txt3{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#img02{
+	-webkit-animation-delay: 1.4s;
+	-o-animation-delay: 1.4s;
+	animation-delay: 1.4s;
+}
+#txt4, #txt5{
+	-webkit-animation-delay: 1.9s;
+	-o-animation-delay: 1.9s;
+	animation-delay: 1.9s;
+}
+#txt6{
+	-webkit-animation-delay: 2.4s;
+	-o-animation-delay: 2.4s;
+	animation-delay: 2.4s;
+}
+#txt7{
+	-webkit-animation-delay: 2.8s;
+	-o-animation-delay: 2.8s;
+	animation-delay: 2.8s;
+}
