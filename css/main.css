@@ -302,7 +302,38 @@ body{
 	left: 255px;
 }
 
-
+/*slide_10*/
+#bg8{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+#txt30{
+	position: absolute;
+    left: 28px;
+    top: 180px;
+}
+#img14{
+	position: absolute;
+    top: 282px;
+    left: 268px;
+}
+#img15{
+	position: absolute;
+    top: 282px;
+    right: 34px;
+}
+#img16{
+	position: absolute;
+    bottom: 45px;
+    right: 26px;
+}
+#txt31{
+	position: absolute;
+    left: 0px;
+    bottom: 82px;
+}
+/*slide_11*/
 
 
 
