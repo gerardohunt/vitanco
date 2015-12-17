@@ -159,13 +159,41 @@ body{
 	bottom: 8px;
 	left: 158px;
 }
-
-
-
-
-
-
-
+#bg4{
+	position: absolute;
+	top:0;
+	left: 0;
+}
+#txt11{
+	position: absolute;
+	right: 48px;
+	top:177px;
+}
+#txt12{
+	position: absolute;
+	top:415px;
+	right: 33px;
+}
+#img07{
+	position: absolute;
+	top:298px;
+	left:32px;
+}
+#txt13{
+	position: absolute;
+	right: 15px;
+	bottom: 136px;
+}
+#txt14{
+	position: absolute;
+	left:100px;
+	bottom: 60px;
+}
+#img08{
+	position: absolute;
+	right: 100px;
+	bottom: 10px;
+}
 
 
 
