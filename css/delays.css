@@ -124,7 +124,7 @@
 	-o-animation-delay: 2.5s;
 	animation-delay: 2.5s;
 }
-#txt20, #txt21{
+#txt_20, #txt21{
 	-webkit-animation-delay: 1.7s;
 	-o-animation-delay: 1.7s;
 	animation-delay: 1.7s;
@@ -146,9 +146,31 @@
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 }
-
-
-
+#txt24{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#txt25{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#img12{
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+#txt26, #txt27{
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+#txt28{
+	-webkit-animation-delay: 2.9s;
+	-o-animation-delay: 2.9s;
+	animation-delay: 2.9s;
+}
 
 
 

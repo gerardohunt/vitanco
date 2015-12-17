@@ -35,6 +35,7 @@ body{
 	bottom: 0;
 	right: 0;
 }
+
 #btnSig{
 	height: 27px;
 	right:31px;
@@ -234,7 +235,7 @@ body{
 	left: 100px;
 	bottom: 230px;
 }
-#txt20{
+#txt_20{
 	position: absolute;
 	left: 52px;
 	top:205px;
@@ -263,8 +264,43 @@ body{
 	position: absolute;
 	bottom: 127px;
 }
+#bg7{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	
+}
+#txt24{
+	position: absolute;
+	top:175px;
+	left: 147px;
+}
+#txt25{
+	position: absolute;
+	bottom: 341px;
+	left: 61px;
+}
+#img12{
+	position: absolute;
+	left: 420px;
+	bottom: 160px;
+}
+#txt26{
+	position: absolute;
+	bottom: 160px;
+	left: 16px;
 
-
+}
+#txt27{
+	position: absolute;
+	bottom: 185px;
+	right: 64px;
+}
+#txt28{
+	position: absolute;
+	bottom: 55px;
+	left: 255px;
+}
 
 
 
