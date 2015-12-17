@@ -234,8 +234,35 @@ body{
 	left: 100px;
 	bottom: 230px;
 }
-
-
+#txt20{
+	position: absolute;
+	left: 52px;
+	top:205px;
+}
+#txt21{
+	position: absolute;
+	right: 52px;
+	top: 205px;
+}
+#img10{
+	position: absolute;
+	left: 460px;
+	top:255px;
+}
+#img11{
+	position: absolute;
+	left:245px;
+	bottom: 0px;
+}
+#txt23{
+	position: absolute;
+	right: 59px;
+	bottom: 147px;
+}
+#txt22{
+	position: absolute;
+	bottom: 127px;
+}
 
 
 
