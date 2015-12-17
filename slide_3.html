@@ -9,15 +9,18 @@
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <body id="touch">
-	<div id="contenedor2">
-		<div id="btnSig" class="animated fadeInDown"><a href="slide_3.html"><img src="general/next.png"></a></div>
+	<div id="contenedor1">
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_4.html"><img src="general/next.png"></a></div>
 		<!--Menu-->
 		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
 		<!--Menu-->
-		<div id="btnAnt" class="animated fadeInDown"><a href="slide_1.html"><img src="general/back.png"></a></div>
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_2.html"><img src="general/back.png"></a></div>
+		<div id="bg" class="animated fadeIn"><img src="slide3/background.png"></div>
 
 		
-		<div id="title" class="animated fadeInLeft"><img src="slide2/title.png"></div>
+		<div id="title" class="animated fadeInLeft"><img src="slide3/title.png"></div>
+		<div id="img01" class="animated fadeInRight"><img src="slide3/img01.png"></div>
+		<div id="txt2" class="animated fadeIn"><img src="slide3/txt01.png"></div>
 
 
 		<div id="Logo" class="animated fadeInUp"> <img src="general/logo.png"></div>
@@ -29,10 +32,10 @@
 	<script>
 		
 		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
-		       window.location.href = "slide_3.html";
+		       window.location.href = "slide_4.html";
 		});
 		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
-		       window.location.href = "slide_1.html";
+		       window.location.href = "slide_2.html";
 		});
 
 	</script>

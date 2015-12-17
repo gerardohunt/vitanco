@@ -30,6 +30,10 @@ body{
 	position: relative;
 	width: 1024px;
 }
+#bg{
+	position: absolute;
+	bottom: 0;
+}
 #btnSig{
 	height: 27px;
 	right:31px;
@@ -67,4 +71,14 @@ body{
 	position: absolute;
 	top:175px;
 	left: 110px;
+}
+#img01{
+	position: absolute;
+	right: 72px;
+	top:218px;
+}
+#txt2{
+	position: absolute;
+	right: 444px;
+	top:322px;
 }

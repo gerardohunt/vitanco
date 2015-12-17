@@ -13,3 +13,13 @@
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
 }
+#img01{
+	-webkit-animation-delay: 1.4s;
+	-o-animation-delay: 1.4s;
+	animation-delay: 1.4s;
+}
+#txt2{
+	-webkit-animation-delay: 1.9s;
+	-o-animation-delay: 1.9s;
+	animation-delay: 1.9s;
+}
