@@ -547,10 +547,41 @@ body{
     right: -4px;
     top:211px;
 }
-
-
-
-
+#bg15{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+#txt250{
+	position: absolute;
+    top: 164px;
+    left: 60px;
+}
+#img211{
+	position: absolute;
+    right: 36px;
+    top: 319px;
+}
+#img210{
+	position: absolute;
+    left: 36px;
+    top: 319px;
+}
+#img212{
+	position: absolute;
+    bottom: 45px;
+    left: 369px;
+}
+#img213{
+	position: absolute;
+    bottom: 98px;
+    left: 217px;
+}
+#img214{
+	position: absolute;
+    bottom: 107px;
+    right: 217px;
+}
 
 
 
