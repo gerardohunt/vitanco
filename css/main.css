@@ -537,7 +537,16 @@ body{
     right: 42px;
     bottom: 82px;
 }
-
+#txt203{
+	position: absolute;
+    bottom: 200px;
+    left: 50px;
+}
+#img201{
+	position: absolute;
+    right: -4px;
+    top:211px;
+}
 
 
 

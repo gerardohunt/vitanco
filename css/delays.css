@@ -319,3 +319,13 @@
 	-o-animation-delay: 2.5s;
 	animation-delay: 2.5s;
 }
+#txt203{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#img201{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
