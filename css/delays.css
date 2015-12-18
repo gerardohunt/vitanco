@@ -236,9 +236,28 @@
 	-o-animation-delay: 1.7s;
 	animation-delay: 1.7s;
 }
+#img28, #txt36{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
 
+#img29, #txt37{
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
 
-
+#img30{
+	-webkit-animation-delay: 3.7s;
+	-o-animation-delay: 3.7s;
+	animation-delay: 3.7s;
+}
+#txt38,#txt39{
+	-webkit-animation-delay: 4.2s;
+	-o-animation-delay: 4.2s;
+	animation-delay: 4.2s;
+}
 
 
 

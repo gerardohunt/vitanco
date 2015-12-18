@@ -395,7 +395,48 @@ body{
     bottom: 43px;
 }
 
+/*slide 14*/
+#bg11{
+	position: absolute;
+	left: 0;
+	bottom: 0;
 
+}
+#img28{
+	position: absolute;
+    left: 38px;
+    top: 198px;
+}
+#txt36{
+	position: absolute;
+    left: 159px;
+    top: 226px;
+}
+#img29{
+	position: absolute;
+    right: 87px;
+    top: 280px;
+}
+#txt37{
+	position: absolute;
+    left: 182px;
+    bottom: 212px;
+}
+#img30{
+	position: absolute;
+    bottom: 50px;
+    left: 427px;
+}
+#txt39{
+	position: absolute;
+    right: 91px;
+    bottom: 43px;
+}
+#txt38{
+	position: absolute;
+    left: 33px;
+    bottom: 43px;
+}
 
 
 
