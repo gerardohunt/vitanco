@@ -437,7 +437,23 @@ body{
     left: 33px;
     bottom: 43px;
 }
+/*slide 15*/
+#bg12{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
 
+#txt40{
+	position: absolute;
+    top: 207px;
+    left: 34px;
+}
+#img31{
+	position: absolute;
+    left: 192px;
+    bottom: 23px;
+}
 
 
 
