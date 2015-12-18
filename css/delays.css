@@ -304,3 +304,18 @@
 	-o-animation-delay: 3.7s;
 	animation-delay: 3.7s;
 }
+#txt201{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#txt200{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#img200, #txt202{
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}

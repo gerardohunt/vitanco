@@ -509,7 +509,34 @@ body{
     bottom: 83px;
     left: 17px;
 }
+#big14{
+	position: absolute;
+	left: 0;
+	top:0;
 
+}
+/*slide 18*/
+#txt201{
+    position: absolute;
+    left: 43px;
+    top: 234px;
+
+}
+#txt200{
+	position: absolute;
+    left: 200px;
+    top: 359px;
+}
+#txt202{
+	position: absolute;
+    bottom: 125px;
+    left: 100px;
+}
+#img200{
+	position: absolute;
+    right: 42px;
+    bottom: 82px;
+}
 
 
 
