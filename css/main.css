@@ -374,10 +374,26 @@ body{
     bottom: 16px;
     left: 88px;
 }
-
-
-
-
+#bg10{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+#img27{
+	position: absolute;
+    right: 28px;
+    bottom: 81px;
+}
+#txt34{
+	position: absolute;
+    left: 54px;
+    bottom: 205px;
+}
+#txt35{
+	position: absolute;
+    left: 76px;
+    bottom: 43px;
+}
 
 
 
