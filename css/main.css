@@ -454,7 +454,31 @@ body{
     left: 192px;
     bottom: 23px;
 }
-
+#bg12{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+#txt140{
+	position: absolute;
+    top: 179px;
+    left: 22px;
+}
+#txt141{
+	position: absolute;
+    left: 31px;
+    top: 298px;
+}
+#txt142{
+	position: absolute;
+    left: 31px;
+    top: 509px;
+}
+#img131{
+	position: absolute;
+    right: 37px;
+    bottom: 149px;
+}
 
 
 
