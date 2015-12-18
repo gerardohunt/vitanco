@@ -479,7 +479,36 @@ body{
     right: 37px;
     bottom: 149px;
 }
-
+#bg13{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+#bullet6{
+	position: absolute;
+    left: 30px;
+    top: 200px;
+}
+#bullet7{
+	position: absolute;
+    left: 30px;
+    top: 359px;
+}
+#img132{
+	position: absolute;
+    right: 100px;
+    top: 173px;
+}
+#img133{
+	position: absolute;
+    right: 90px;
+    bottom: 231px;
+}
+#txt143{
+	position: absolute;
+    bottom: 83px;
+    left: 17px;
+}
 
 
 

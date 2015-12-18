@@ -279,3 +279,28 @@
 	-o-animation-delay: 2.5s;
 	animation-delay: 2.5s;
 }
+#bullet6{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#bullet7{
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+#img132{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#img133{
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+#txt143{
+	-webkit-animation-delay: 3.7s;
+	-o-animation-delay: 3.7s;
+	animation-delay: 3.7s;
+}
