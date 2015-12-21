@@ -827,7 +827,21 @@ body{
     bottom: 0px;
     left: 25px;
 }
-
+#bg31{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#txt416{
+	position: absolute;
+    left: 90px;
+    top: 260px;
+}
+#img425{
+	position: absolute;
+    right: 53px;
+    top: 315px;
+}
 
 
 
