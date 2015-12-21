@@ -662,8 +662,46 @@ body{
 	top: 0;
 	left: 0;
 }
-
-
+#txt407{
+	position: absolute;
+    left: 90px;
+    top: 200px;
+}
+#txt408{
+	position: absolute;
+    right: 14px;
+    top: 260px;
+}
+#txt409{
+	position: absolute;
+    top: 280px;
+    left: 67px;
+}
+#txt410{
+	position: absolute;
+    left: 60px;
+    bottom: 217px;
+}
+#txt412{
+	position: absolute;
+    bottom: 194px;
+    right: 178px;
+}
+#txt413{
+	position: absolute;
+    bottom: 51px;
+    right: 108px;
+}
+#txt411{
+	position: absolute;
+    bottom: 12px;
+    left: 88px;
+}
+#img405{
+	position: absolute;
+    right: 17px;
+    bottom: 242px;
+}
 
 
 
