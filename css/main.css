@@ -602,6 +602,16 @@ body{
 	right: 50px;
 	bottom: 89px;
 }
+#img401{
+	position: absolute;
+    left: 65px;
+    top: 165px;
+}
+#bg21{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
 
 
 
