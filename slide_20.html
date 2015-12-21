@@ -12,9 +12,11 @@
 	<div id="contenedor1">
 		
 		<!--Menu-->
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_21.html"><img src="general/next.png"></a></div>
+		<!--Menu-->
 		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
 		<!--Menu-->
-		<div id="btnSig" class="animated fadeInDown"><a href="slide_19.html"><img src="general/back.png"></a></div>
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_19.html"><img src="general/back.png"></a></div>
 
 		<div id="bg15" class="animated fadeIn"><img src="slide20/background.png"></div>
 
@@ -46,12 +48,15 @@
 	<script type="text/javascript" src="js/hammer.min.js"></script>
 	<script>
 		
-		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_21.html";
+		});
 		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
 		       window.location.href = "slide_19.html";
 		});
 
 	</script>
+	
 	
 </body>
 </html>

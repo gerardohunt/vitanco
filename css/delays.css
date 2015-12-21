@@ -349,3 +349,18 @@
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 }
+#txt400{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#txt401{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#img400{
+	-webkit-animation-delay: 1.9s;
+	-o-animation-delay: 1.9s;
+	animation-delay: 1.9s;
+}

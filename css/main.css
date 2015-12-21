@@ -582,10 +582,26 @@ body{
     bottom: 107px;
     right: 217px;
 }
-
-
-
-
+#bg20{
+	position: absolute;
+	bottom:0;
+	left: 0;
+}
+#txt400{
+	position: absolute;
+    top: 200px;
+    left: 91px;
+}
+#txt401{
+	position: absolute;
+    left: 50px;
+    bottom: 89px;
+}
+#img400{
+	position: absolute;
+	right: 50px;
+	bottom: 89px;
+}
 
 
 
