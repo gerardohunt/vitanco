@@ -702,9 +702,41 @@ body{
     right: 17px;
     bottom: 242px;
 }
-
-
-
+#bg26{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#img406{
+	position: absolute;
+    bottom: 280px;
+    left: 9px;
+}
+#img407{
+	position: absolute;
+    left: 205px;
+    top: 201px;
+}
+#img408{
+	position: absolute;
+    top: 239px;
+    left: 68px;
+}
+#img410{
+	position: absolute;
+    left: 251px;
+    bottom: 78px;
+}
+#img411{
+	position: absolute;
+    bottom: 1px;
+    right: 50px;
+}
+#img409{
+	position: absolute;
+    left: 321px;
+    top: 269px;
+}
 
 
 
