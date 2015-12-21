@@ -612,11 +612,51 @@ body{
 	bottom: 0;
 	right: 0;
 }
-
-
-
-
-
+#bg22{
+	position: absolute;
+	top:0;
+	left: 0;
+}
+#txt402{
+	position: absolute;
+    top: 185px;
+    left: 182px;
+}
+#txt403{
+	position: absolute;
+    left: 182px;
+    top: 311px;
+}
+#txt404{
+	position: absolute;
+    left: 182px;
+    top: 448px;
+}
+#img404{
+	position: absolute;
+    right: 54px;
+    bottom: 108px
+}
+#img402{
+	position: absolute;
+    left: 22px;
+    bottom: 370px;
+}
+#img403{
+	position: absolute;
+	left: 22px;
+	bottom: 218px;
+}
+#txt405{
+	position: absolute;
+    left: 26px;
+    bottom: 106px;
+}
+#txt406{
+	position: absolute;
+    left: 209px;
+    bottom: 0px;
+}
 
 
 
