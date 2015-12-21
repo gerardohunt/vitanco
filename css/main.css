@@ -657,7 +657,11 @@ body{
     left: 209px;
     bottom: 0px;
 }
-
+#bg6{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
 
 
 
