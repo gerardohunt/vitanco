@@ -842,12 +842,48 @@ body{
     right: 53px;
     top: 315px;
 }
-
-
-
-
-
-
+#bg32{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+#img426{
+	position: absolute;
+    left: 347px;
+    top: 188px;
+}
+#img429{
+	position: absolute;
+    width: 334px;
+    right: 102px;
+    top: 212px;
+}
+#img430{
+	position: absolute;
+    width: 337px;
+    right: 93px;
+    top: 317px;
+}
+#img427{
+	position: absolute;
+    width: 336px;
+    top: 212px;
+}
+#img428{
+	position: absolute;
+    top: 317px;
+    width: 334px;
+}
+#img431{
+	position: absolute;
+    left: 367px;
+    top: 398px;
+}
+#img432{
+	position: absolute;
+    left: 59px;
+    bottom: 41px;
+}
 
 
 
