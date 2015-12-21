@@ -737,8 +737,26 @@ body{
     left: 321px;
     top: 269px;
 }
-
-
+#bg27{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+#txt414{
+	position: absolute;
+    top: 200px;
+    left: 122px;
+}
+#txt415{
+	position: absolute;
+    left: 20px;
+    bottom: 140px;
+}
+#img412{
+	position: absolute;
+    right: 38px;
+    bottom: 116px;
+}
 
 
 
