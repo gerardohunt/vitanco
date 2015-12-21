@@ -757,8 +757,36 @@ body{
     right: 38px;
     bottom: 116px;
 }
-
-
+#bg28{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#img413{
+	position: absolute;
+    left: 50px;
+    top: 208px;
+}
+#img414{
+	position: absolute;
+    bottom: 226px;
+    left: 22px;
+}
+#img415{
+	position: absolute;
+    bottom: 20px;
+    left: 50px;
+}
+#img416{
+	position: absolute;
+    bottom: 211px;
+    right: 108px;
+}
+#img417{
+	position: absolute;
+    right: 18px;
+    bottom: 231px;
+}
 
 
 
