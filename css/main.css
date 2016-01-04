@@ -30,6 +30,15 @@ body{
 	position: relative;
 	width: 1024px;
 }
+#contenedor3 {
+	background-color: #fff;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
 #bg{
 	position: absolute;
 	bottom: 0;
@@ -71,8 +80,8 @@ body{
 }
 #txt1{
 	position: absolute;
-	top:175px;
-	left: 110px;
+	top:311px;
+	left: 378px;
 }
 #img01{
 	position: absolute;
