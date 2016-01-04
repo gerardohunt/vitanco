@@ -13,7 +13,7 @@ body{
 }
 
 #contenedor1 {
-	background-color:#fff;;
+	background: url(../portada/fondo.jpg) no-repeat left top #fff;
 	display: block;
 	height: 768px;
 	margin: 0 auto;
