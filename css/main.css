@@ -474,7 +474,7 @@ body{
 }
 #bg12{
 	position: absolute;
-	left: 0;
+	right: 0;
 	bottom: 0;
 }
 #txt140{
@@ -557,14 +557,45 @@ body{
 }
 #txt203{
 	position: absolute;
-    bottom: 200px;
+    top: 183px;
     left: 50px;
 }
 #img201{
 	position: absolute;
-    right: -4px;
-    top:211px;
+    left: 52px;
+    top: 350px;
 }
+#imgnuevo203{
+	position: absolute;
+    left: 283px;
+    top: 420px;
+}
+#imgnuevo204{
+	position: absolute;
+    left: 640px;
+    top: 420px;
+}
+#imgnuevo201{
+	position: absolute;
+    left: 414px;
+    top: 350px;
+}
+#imgnuevo202{
+	position: absolute;
+    right: 38px;
+    top: 350px;
+}
+#imgnuevo205{
+	position: absolute;
+    bottom: 25px;
+    left: 100px;
+}
+#bgnuevo12{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
 #bg15{
 	position: absolute;
 	bottom: 0;
