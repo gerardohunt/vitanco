@@ -146,13 +146,13 @@ body{
 }
 #img04{
 	position: absolute;
-	right: 18px;
-	top:380px;
+	right: 73px;
+	top:480px;
 }
 #txt9{
 	position: absolute;
 	left:33px;
-	top:420px;
+	top:490px;
 }
 #txt10{
 	position: absolute;
@@ -212,12 +212,12 @@ body{
 #img09{
 	position: absolute;
 	left: 241px;
-	top:227px;
+	top:277px;
 }
 #txt16{
 	position: absolute;
-	left: 200px;
-	bottom: 350px;
+	left: 112px;
+	bottom: 280px;
 }
 #txt19{
 	position: absolute;
@@ -231,18 +231,18 @@ body{
 }
 #txt18{
 	position: absolute;
-	right: 13px;
-	top:263px;
+	right: 104px;
+	top:435px;
 }
 #txt15{
 	position: absolute;
 	left: 45px;
-	top:212px;
+	top:225px;
 }
 #txt17{
 	position: absolute;
-	left: 100px;
-	bottom: 230px;
+	right: 48px;
+	bottom: 361px;
 }
 #txt_20{
 	position: absolute;
@@ -281,36 +281,45 @@ body{
 }
 #txt24{
 	position: absolute;
-	top:175px;
-	left: 147px;
+	top:182px;
+	left: 224px;
 }
 #txt25{
 	position: absolute;
-	bottom: 341px;
-	left: 61px;
+	top: 182px; 
+	left: 428px;
 }
 #img12{
 	position: absolute;
-	left: 420px;
-	bottom: 160px;
+	left: 68px;
+	top: 160px;
+}
+#imgnuevo12{
+	position: absolute;
+    right: 44px;
+    bottom: 64px;
 }
 #txt26{
 	position: absolute;
-	bottom: 160px;
-	left: 16px;
+	top: 182px;
+	right: 16px;
 
 }
 #txt27{
 	position: absolute;
-	bottom: 185px;
-	right: 64px;
+	bottom: 195px;
+	left: 33px;
 }
 #txt28{
 	position: absolute;
-	bottom: 55px;
-	left: 255px;
+	bottom: 227px;
+	right: 76px;
 }
-
+#txtnuevo28{
+	position: absolute;
+	bottom: 25px;
+	right: 220px;
+}
 /*slide_10*/
 #bg8{
 	position: absolute;
