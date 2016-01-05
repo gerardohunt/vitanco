@@ -1323,13 +1323,38 @@ body{
     right: 100px;
     bottom: 19px;
 }
+#img576{
+	position: absolute;
+    left: 30px;
+    top:220px;
+}
+#img577{
+	position: absolute;
+    left: 30px;
+    top: 330px;
+}
+#img578{
+	position: absolute;
+    left: 30px;
+    top: 446px;
+}
+#img579{
+	position: absolute;
+    left: 30px;
+    bottom: 151px;
+}
+#img580{
+	position: absolute;
+    right: 100px;
+    top: 225px;
+}
+#img581{
 
+    position: absolute;
+    right: 148px;
+    bottom: 79px;
 
-
-
-
-
-
+}
 
 
 

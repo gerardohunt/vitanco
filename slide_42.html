@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vitanco</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor3">
+		<div id="bg30" class="animated fadeIn"><img src="slide41/background.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_43.html"><img src="general/next.png"></a></div>
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+		<!--Menu-->
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_41.html"><img src="general/back.png"></a></div>
+
+		
+
+		
+		<div id="title" class="animated fadeInLeft"><img src="slide41/title.png"></div>
+	
+		
+		<!--Imagenes-->
+
+		<div id="img576" class="animated fadeIn"><img src="slide42/bullet01.png"></div>
+
+		<div id="img577" class="animated fadeIn"><img src="slide42/bullet02.png"></div>
+
+		<div id="img578" class="animated fadeIn"><img src="slide42/bullet03.png"></div>
+
+		<div id="img579" class="animated fadeIn"><img src="slide42/bullet04.png"></div>
+
+		<div id="img580" class="animated zoomIn"><img src="slide42/img01.png"></div>
+
+		<div id="img581" class="animated zoomIn"><img src="slide42/img02.png"></div>
+
+		<div id="img574" class="animated fadeInDown"><img src="slide42/txt01.png"></div>
+
+		<div id="img575" class="animated fadeInLeft"><img src="slide42/txt02.png"></div>
+
+		
+
+
+		
+		
+		
+		
+		
+		<div id="Logo" class="animated fadeInUp"> <img src="general/logo.png"></div>
+
+
+
+	</div>	
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_43.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_41.html";
+		});
+
+	</script>
+	
+</body>
+</html>
