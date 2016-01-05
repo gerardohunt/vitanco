@@ -798,23 +798,28 @@ body{
 }
 #img406{
 	position: absolute;
-    bottom: 280px;
-    left: 9px;
+    bottom: 40px;
+    left: 59px;
 }
 #img407{
 	position: absolute;
-    left: 205px;
-    top: 201px;
+    left: 56px;
+    top: 216px;
 }
 #img408{
 	position: absolute;
-    top: 239px;
-    left: 68px;
+    top: 248px;
+    left: 249px;
+}
+#imgnew410{
+	position: absolute;
+    right: 5px;
+    bottom: 228px;
 }
 #img410{
 	position: absolute;
-    left: 251px;
-    bottom: 78px;
+    left: 444px;
+    bottom: 209px;
 }
 #img411{
 	position: absolute;
@@ -823,8 +828,8 @@ body{
 }
 #img409{
 	position: absolute;
-    left: 321px;
-    top: 269px;
+    left: 31px;
+    top: 295px;
 }
 #bg27{
 	position: absolute;
