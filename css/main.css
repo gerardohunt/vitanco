@@ -638,18 +638,28 @@ body{
 }
 #txt400{
 	position: absolute;
-    top: 200px;
-    left: 91px;
+    top: 237px;
+    left: 624px;
 }
 #txt401{
 	position: absolute;
-    left: 50px;
-    bottom: 89px;
+    left: 530px;
+    bottom: 141px;
 }
 #img400{
 	position: absolute;
-	right: 50px;
-	bottom: 89px;
+	left:50px;
+	bottom: 43px;
+}
+#imgnew400{
+	position: absolute;
+	left: 465px;
+	top:202px;
+}
+#imgnewnew400{
+	position: absolute;
+	right: 525px;
+	bottom: 150px;
 }
 #img401{
 	position: absolute;
