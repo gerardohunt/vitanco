@@ -1049,6 +1049,38 @@ body{
     right: 154px;
 }
 
+/*slide 31*/
+#img527{
+	position: absolute;
+    left: 100px;
+    top: 175px;
+}
+#img528{
+	position: absolute;
+    left: 331px;
+    top: 305px;
+}
+#img526{
+	position: absolute;
+    left: 39px;
+    bottom: 146px;
+}
+#img525{
+	position: absolute;
+    right: 27px;
+    bottom: 127px;
+}
+#img529{
+	position: absolute;
+    bottom: 52px;
+    left: 265px;
+}
+#img530{
+    position: absolute;
+    left: 44px;
+    bottom: 25px;
+
+}
 
 
 
