@@ -1385,12 +1385,36 @@ body{
     left: 35px;
     bottom: 85px;
 }
-
-
-
-
-
-
+#img591{
+	position: absolute;
+    left: 100px;
+    top: 200px;
+}
+#img592{
+	position: absolute;
+    top: 311px;
+    left: 152px;
+}
+#img588{
+	position: absolute;
+    top: 391px;
+    left: 182px;
+}
+#img593{
+	position: absolute;
+    left: 28px;
+    bottom: 61px;
+}
+#img590{
+	position: absolute;
+    bottom: 68px;
+    right: 202px;
+}
+#img589{
+	position: absolute;
+    right: 56px;
+    bottom: 100px;
+}
 
 
 
