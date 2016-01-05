@@ -1440,13 +1440,46 @@ body{
     left: 20px;
     bottom: 17px;
 }
-
-
-
-
-
-
-
+#img5102{
+	position: absolute;
+    left: 233px;
+    top: 215px;
+}
+#img5103{
+	position: absolute;
+    left: 100px;
+    top: 335px;
+}
+#img5104{
+	position: absolute;
+    left: 110px;
+    bottom: 245px;
+}
+#img5101{
+	position: absolute;
+    right: 51px;
+    top: 372px;
+}
+#img5105{
+	position: absolute;
+    left: 33px;
+    bottom: 89px;
+}
+#img5100{
+	position: absolute;
+    left: 193px;
+    bottom: 28px;
+}
+#img599{
+	position: absolute;
+    left: 457px;
+    bottom: 47px;
+}
+#img5106{
+	position: absolute;
+    bottom: 7px;
+    left: 20px;
+}
 
 
 
