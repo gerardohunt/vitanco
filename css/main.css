@@ -1164,9 +1164,47 @@ body{
     right: 12px;
     bottom: 151px;
 }
-
-
-
+/*slide 37*/
+#img552{
+	position: absolute;
+    top: 188px;
+    left: 35px;
+}
+#img546{
+	position: absolute;
+    left: 53px;
+    top: 365px;
+}
+#img547{
+	position: absolute;
+    left: 117px;
+    top: 362px;
+}
+#img548{
+	position: absolute;
+    left: 91px;
+    bottom: 288px;
+}
+#img549{
+	position: absolute;
+    left: 91px;
+    bottom: 171px;
+}
+#img553{
+	position: absolute;
+    bottom: 24px;
+    left: 52px;
+}
+#img551{
+	position: absolute;
+    right: 40px;
+    bottom: 121px;
+}
+#img550{
+	position: absolute;
+    right: 20px;
+    bottom: 63px;
+}
 
 
 

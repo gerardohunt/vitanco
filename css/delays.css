@@ -778,3 +778,33 @@
 	-o-animation-delay: 1.5s;
 	animation-delay: 1.5s;
 }
+#img552{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#img546{
+	webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#img547{
+	webkit-animation-delay: 2.2s;
+	-o-animation-delay: 2.2s;
+	animation-delay: 2.2s;
+}
+#img548{
+	webkit-animation-delay: 2.7s;
+	-o-animation-delay: 2.7s;
+	animation-delay: 2.7s;
+}
+#img549, #img551{
+	webkit-animation-delay: 3.2s;
+	-o-animation-delay: 3.2s;
+	animation-delay: 3.2s;
+}
+#img553, #img550{
+	webkit-animation-delay: 3.7s;
+	-o-animation-delay: 3.7s;
+	animation-delay: 3.7s;
+}
