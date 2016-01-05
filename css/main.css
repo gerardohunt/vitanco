@@ -1109,7 +1109,22 @@ body{
     bottom: 26px;
 }
 
-
+/*slide 34*/
+#img538{
+	position: absolute;
+    left: 43px;
+    top: 194px;
+}
+#img536{
+	position: absolute;
+    left: 50px;
+    bottom: 119px;
+}
+#img537{
+	position: absolute;
+    right: 9px;
+    bottom: 88px;
+}
 
 
 
