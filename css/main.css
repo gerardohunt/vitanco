@@ -1480,8 +1480,39 @@ body{
     bottom: 7px;
     left: 20px;
 }
-
-
-
-
+#img5110{
+	position: absolute;
+    top: 222px;
+    left: 27px;
+}
+#img5109{
+	position: absolute;
+    left: 35px;
+    top: 385px;
+}
+#img5111{
+	position: absolute;
+    left: 62px;
+    top: 428px;
+}
+#img5112{
+	position: absolute;
+    left: 62px;
+    top: 556px;
+}
+#img5113{
+	position: absolute;
+    left: 62px;
+    bottom: 13px;
+}
+#img5107{
+	position: absolute;
+    right: 37px;
+    top: 220px;
+}
+#img5108{
+	position: absolute;
+    right: 200px;
+    bottom: 48px;
+}
 
