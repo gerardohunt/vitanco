@@ -983,8 +983,8 @@ body{
 }
 #img426{
 	position: absolute;
-    left: 347px;
-    top: 188px;
+    left: 248px;
+    bottom: 29px;
 }
 #img429{
 	position: absolute;
@@ -1005,13 +1005,13 @@ body{
 }
 #img427{
 	position: absolute;
-    width: 336px;
-    top: 212px;
+    left:70px;
+    top:197px;
 }
 #img428{
 	position: absolute;
-    top: 317px;
-    width: 334px;
+    top: 362px;
+    left: 53px;
 }
 #img431{
 	position: absolute;
@@ -1023,6 +1023,32 @@ body{
     left: 59px;
     bottom: 41px;
 }
+#img520{
+	position: absolute;
+    left: 28px;
+    top: 235px;
+}
+#img521{
+	position: absolute;
+    left: 72px;
+    top: 201px;
+}
+#img522{
+	top: 198px;
+    right: 119px;
+    position: absolute;
+}
+#img523{
+	position: absolute;
+    bottom: 22px;
+    left: 32px;
+}
+#img524{
+	position: absolute;
+    bottom: 22px;
+    right: 154px;
+}
+
 
 
 

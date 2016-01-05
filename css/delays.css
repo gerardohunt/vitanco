@@ -634,17 +634,17 @@
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
 	}
-#img426{
+#img427{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
 	}
-#img427,#img429{
+#img428{
 	webkit-animation-delay: 1.7s;
 	-o-animation-delay: 1.7s;
 	animation-delay: 1.7s;
 }
-#img428,#img430{
+#img426{
 	-webkit-animation-delay: 2.5s;
 	-o-animation-delay: 2.5s;
 	animation-delay: 2.5s;
@@ -658,4 +658,19 @@
 	-webkit-animation-delay: 3.3s;
 	-o-animation-delay: 3.3s;
 	animation-delay: 3.3s;
+}
+#img520{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#img521, #img523{
+	webkit-animation-delay: 1.9s;
+	-o-animation-delay: 1.9s;
+	animation-delay: 1.9s;
+}
+#img522, #img524{
+	webkit-animation-delay: 2.2s;
+	-o-animation-delay: 2.2s;
+	animation-delay: 2.2s;
 }
