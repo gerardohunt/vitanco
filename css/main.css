@@ -831,25 +831,25 @@ body{
     left: 31px;
     top: 295px;
 }
-#bg27{
+#bgnew27{
 	position: absolute;
 	bottom: 0;
-	left: 0;
+	right: 0;
 }
 #txt414{
 	position: absolute;
-    top: 200px;
-    left: 122px;
+    top: 199px;
+    left: 53px;
 }
 #txt415{
 	position: absolute;
-    left: 20px;
-    bottom: 140px;
+    left: 162px;
+    bottom: 408px;
 }
 #img412{
 	position: absolute;
-    right: 38px;
-    bottom: 116px;
+    left:0;
+    bottom: 270px;
 }
 #bg28{
 	position: absolute;
@@ -858,13 +858,13 @@ body{
 }
 #img413{
 	position: absolute;
-    left: 50px;
-    top: 208px;
+    left: 623px;
+    top: 277px;
 }
 #img414{
 	position: absolute;
-    bottom: 226px;
-    left: 22px;
+    bottom: 141px;
+    left: 61px;
 }
 #img415{
 	position: absolute;
@@ -875,6 +875,31 @@ body{
 	position: absolute;
     bottom: 211px;
     right: 108px;
+}
+#txtnew415{
+	position: absolute;
+    left: 595px;
+    bottom: 264px
+}
+#txtnewnewnew415{
+	position: absolute;
+    right: 29px;
+    bottom: 106px;
+}
+#txtnewnew415{
+	 position: absolute;
+    bottom: 283px;
+    left: 341px;
+}
+#imgnew211{
+	position: absolute;
+	left: 28px;
+	bottom: 16px;
+}
+#txtnewnewnewnew415{
+	position: absolute;
+    bottom: 17px;
+    left: 25px;
 }
 #img417{
 	position: absolute;
