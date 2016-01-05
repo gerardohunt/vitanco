@@ -603,18 +603,18 @@ body{
 }
 #txt250{
 	position: absolute;
-    top: 164px;
-    left: 60px;
+    top: 412px;
+    left: 36px;
 }
 #img211{
 	position: absolute;
-    right: 36px;
-    top: 319px;
+    left: 36px;
+    bottom: 27px;
 }
 #img210{
 	position: absolute;
     left: 36px;
-    top: 319px;
+    top: 156px;
 }
 #img212{
 	position: absolute;
