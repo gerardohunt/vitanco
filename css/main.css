@@ -1081,8 +1081,33 @@ body{
     bottom: 25px;
 
 }
+/*slide 33*/
+#img533{
+	position: absolute;
+	left: 105px;
+	top:200px;
+}
+#img531{
+	position: absolute;
+    left: 100px;
+    top: 347px;
+}
+#img532{
+	position: absolute;
+    left: 527px;
+    top: 366px;
+}
+#img534{
+    position: absolute;
+    bottom: 66px;
+    left: 34px;
 
-
+}
+#img535{
+	position: absolute;
+    left: 35px;
+    bottom: 26px;
+}
 
 
 
