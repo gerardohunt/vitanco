@@ -1355,10 +1355,36 @@ body{
     bottom: 79px;
 
 }
-
-
-
-
+#img582{
+	position: absolute;
+	left: 30px;
+	top:203px;
+}
+#img583{
+	position: absolute;
+    left: 30px;
+    top: 334px;
+}
+#img584{
+	position: absolute;
+    left: 30px;
+    top: 451px;
+}
+#img585{
+	position: absolute;
+    right: 63px;
+    top: 211px;
+}
+#img586{
+	bottom: 125px;
+    position: absolute;
+    right: 134px;
+}
+#img587{
+	position: absolute;
+    left: 35px;
+    bottom: 85px;
+}
 
 
 
