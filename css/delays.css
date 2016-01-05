@@ -402,11 +402,38 @@
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 }
-#img401{
+
+
+
+
+#imgnewnew401{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
 }
+#imgnewnewnew401, #imgnewnewnewnewnew401{
+	webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+	}
+#imgnewnewnewnew401, #imgnewnewnewnewnewnew401{
+	-webkit-animation-delay: 2.4s;
+	-o-animation-delay: 2.4s;
+	animation-delay: 2.4s;
+}
+#img401{
+	-webkit-animation-delay: 2.8s;
+	-o-animation-delay: 2.8s;
+	animation-delay: 2.8s;
+}
+ #imgnewnewnewnewnewnewnew401{
+	-webkit-animation-delay: 3.3s;
+	-o-animation-delay: 3.3s;
+	animation-delay: 3.3s;
+}
+
+
+
 #txt402{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
