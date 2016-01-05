@@ -494,7 +494,7 @@
 	-o-animation-delay: 1.7s;
 	animation-delay: 1.7s;
 }
-#txt410{
+#txt410, #img405{
 	-webkit-animation-delay: 2.4s;
 	-o-animation-delay: 2.4s;
 	animation-delay: 2.4s;
@@ -509,7 +509,7 @@
 	-o-animation-delay: 2.8s;
 	animation-delay: 2.8s;
 }
-#txt413, #img405{
+#txt413{
 	-webkit-animation-delay: 3.4s;
 	-o-animation-delay: 3.4s;
 	animation-delay: 3.4s;
