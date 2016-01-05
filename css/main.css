@@ -968,13 +968,13 @@ body{
 }
 #txt416{
 	position: absolute;
-    left: 90px;
-    top: 260px;
+    right:38px;
+    top: 241px;
 }
 #img425{
 	position: absolute;
-    right: 53px;
-    top: 315px;
+    right: 3px;
+    top: 203px;
 }
 #bg32{
 	position: absolute;
@@ -991,6 +991,11 @@ body{
     width: 334px;
     right: 102px;
     top: 212px;
+}
+#imgnewlogo424{
+	position: absolute;
+	left: 20px;
+	top:730px;
 }
 #img430{
 	position: absolute;

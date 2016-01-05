@@ -624,15 +624,15 @@
 	-o-animation-delay: 4s;
 	animation-delay: 4s;
 }
-#txt416{
-	-webkit-animation-delay: 1.2s;
-	-o-animation-delay: 1.2s;
-	animation-delay: 1.2s;
+#txt416, #imgnewlogo424{
+	-webkit-animation-delay: 1.9s;
+	-o-animation-delay: 1.9s;
+	animation-delay: 1.9s;
 }
 #img425{
-	webkit-animation-delay: 1.7s;
-	-o-animation-delay: 1.7s;
-	animation-delay: 1.7s;
+	webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
 	}
 #img426{
 	-webkit-animation-delay: 1.2s;
