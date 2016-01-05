@@ -1126,10 +1126,27 @@ body{
     bottom: 88px;
 }
 
-
-
-
-
+/*slide 35*/
+#img539{
+	position: absolute;
+    left: 392px;
+    top: 195px;
+}
+#img541{
+	position: absolute;
+    left: 132px;
+    top: 388px;
+}
+#img540{
+	position: absolute;
+    left: 17px;
+    bottom: 41px;
+}
+#img542{
+	position: absolute;
+    left: 345px;
+    bottom: 28px;
+}
 
 
 
