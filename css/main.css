@@ -913,38 +913,53 @@ body{
 }
 #img418{
 	position: absolute;
-    left: -8px;
-    top: 192px;
+    left: 341px;
+    top: 181px;
 }
 #img419{
 	position: absolute;
-    left: 162px;
-    top: 257px;
+    left: 475px;
+    top: 388px;
 }
 #img420{
 	position: absolute;
-    right: 160px;
-    top: 282px;
+    right: 200px;
+    top: 342px;
+}
+#imgnew420{
+	position: absolute;
+    bottom: 241px;
+    left: 25px;
+}
+#imgnew424{
+	position: absolute;
+    left: 13px;
+    bottom: 38px;
 }
 #img421{
 	 position: absolute;
-    left: 350px;
-    bottom: 280px;
+    left: 91px;
+    top: 210px;
+}
+#imgnewnew424{
+	position: absolute;
+    left: 20px;
+    top: 730px;
 }
 #img422{
 	position: absolute;
-    right: 171px;
-    bottom: 263px;
+    left:91px;
+    bottom: 355px;
 }
 #img424{
 	position: absolute;
-    right: 36px;
-    bottom: 100px;
+    right: 54px;
+    bottom: 382px;
 }
 #img423{
 	position: absolute;
-    bottom: 0px;
-    left: 25px;
+    top:210px;
+    right: 54px;
 }
 #bg31{
 	position: absolute;
