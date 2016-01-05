@@ -1261,8 +1261,21 @@ body{
     left: 38px;
     top: 404px;
 }
-
-
+#img565{
+	position: absolute;
+    left: 100px;
+    top: 251px;
+}
+#img564{
+	position: absolute;
+    right: 15px;
+    bottom: 179px;
+}
+#img566{
+	position: absolute;
+    left: 15px;
+    bottom: 25px;
+}
 
 
 
