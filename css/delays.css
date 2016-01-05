@@ -808,17 +808,17 @@
 	-o-animation-delay: 3.7s;
 	animation-delay: 3.7s;
 }
-#img559{
+#img559, #img561{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
 }
-#img558{
+#img558, #img563{
 	webkit-animation-delay: 1.7s;
 	-o-animation-delay: 1.7s;
 	animation-delay: 1.7s;
 }
-#img554, #img560{
+#img554, #img560, #img562{
 	webkit-animation-delay: 2.2s;
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;

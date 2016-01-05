@@ -1240,8 +1240,27 @@ body{
     bottom: 76px;
     right: 20px;
 }
-
-
+#bg14{
+	position: absolute;
+	left: 0px;
+	top:0px;
+	width: 926px;
+}
+#img561{
+	position: absolute;
+    left: 38px;
+    top: 228px;
+}
+#img563{
+	position: absolute;
+    left: 279px;
+    top: 274px;
+}
+#img562{
+	position: absolute;
+    left: 38px;
+    top: 404px;
+}
 
 
 
