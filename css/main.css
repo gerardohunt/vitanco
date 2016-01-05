@@ -1277,12 +1277,52 @@ body{
     bottom: 25px;
 }
 
-
-
-
-
-
-
+/*slide 41*/
+#img573{
+	position: absolute;
+    left: 105px;
+    top: 200px;
+}
+#img567{
+	position: absolute;
+    left: 31px;
+    top: 286px;
+}
+#img571{
+	position: absolute;
+    right: 67px;
+    top: 247px;
+}
+#img568{
+	position: absolute;
+    left: 30px;
+    top: 391px;
+}
+#img569{
+	position: absolute;
+    left: 32px;
+    top: 494px;
+}
+#img570{
+	position: absolute;
+    left: 30px;
+    bottom: 79px;
+}
+#img572{
+	position: absolute;
+    bottom: 61px;
+    right: 110px;
+}
+#img574{
+	position: absolute;
+    left: 30px;
+    bottom: 19px;
+}
+#img575{
+	position: absolute;
+    right: 100px;
+    bottom: 19px;
+}
 
 
 
