@@ -1617,10 +1617,26 @@ body{
     bottom: 88px;
     right: 1px;
 }
-
-
-
-
+#img5134{
+	position: absolute;
+    top: 175px;
+    left: 55px;
+}
+#img5135{
+	position: absolute;
+    left: 73px;
+    top: 293px;
+}
+#img5137{
+	position: absolute;
+    bottom: 71px;
+    left: 100px;
+}
+#img5136{
+	position: absolute;
+    left: 100px;
+    bottom: 200px;
+}
 
 
 
