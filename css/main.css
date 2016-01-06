@@ -1595,10 +1595,28 @@ body{
     left: 138px;
     top: 409px;
 }
+#img5130{
+	position: absolute;
+    left: 51px;
+    top: 220px;
+}
+#img5131{
 
+    position: absolute;
+    right: 106px;
+    top: 183px;
 
-
-
+}
+#img5132{
+	position: absolute;
+    bottom: 1px;
+    left: 48px;
+}
+#img5133{
+	position: absolute;
+    bottom: 88px;
+    right: 1px;
+}
 
 
 
