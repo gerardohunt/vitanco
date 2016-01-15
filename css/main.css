@@ -744,3 +744,25 @@ position: absolute;
     width: 125px;
     z-index: 999999;
 }
+
+/*slide 23*/
+#img90{
+    position: absolute;
+    left: 53px;
+    top: 220px;
+}
+#img92{
+    position: absolute;
+    right: 50px;
+    top: 220px;
+}
+#img93{
+    position: absolute;
+    left: 202px;
+    bottom: 77px;
+}
+#img94{
+    position: absolute;
+    right: 253px;
+    bottom: 43px;
+}
