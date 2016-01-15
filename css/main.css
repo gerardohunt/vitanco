@@ -90,6 +90,12 @@ body{
 	right: 0;
 	bottom: 0;
 }
+/*abajo izquierdo*/
+#img1new{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
 #img2{
 	position: absolute;
     right: 100px;
@@ -121,3 +127,24 @@ body{
     bottom: 44px;
     left: 135px;
 }
+/*slide 5*/
+#img8{
+	position: absolute;
+    left: 27px;
+    top: 180px;
+}
+#img9{
+	position: absolute;
+    left: 357px;
+    top: 340px;
+}
+#img10{
+	 position: absolute;
+    left: 79px;
+    bottom: 50px;
+    }
+#img11{
+position: absolute;
+    right: 42px;
+    bottom: 60px;
+    }
