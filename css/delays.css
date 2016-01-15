@@ -19,12 +19,12 @@
 	animation-delay: 1.2s;
 }
 
-#img2, #img5, #img8, #img22, #img23, #img58, #img60{
+#img2, #img5, #img8, #img22, #img23, #img58, #img60, #img65{
 	-webkit-animation-delay: 1.4s;
 	-o-animation-delay: 1.4s;
 	animation-delay: 1.4s;
 }
-#img36{
+#img36, #img63{
 	-webkit-animation-delay: 1.6s;
 	-o-animation-delay: 1.6s;
 	animation-delay: 1.6s;
@@ -34,7 +34,7 @@
 	-o-animation-delay: 1.8s;
 	animation-delay: 1.8s;
 }
-#img24, #img25, #img61{
+#img24, #img25, #img61, #img66{
 	-webkit-animation-delay: 1.9s;
 	-o-animation-delay: 1.9s;
 	animation-delay: 1.9s;
@@ -49,7 +49,7 @@
 	-o-animation-delay: 2.5s;
 	animation-delay: 2.5s;
 }
-#img6, #img10, #img14, #img18, #img20, #img59{
+#img6, #img10, #img14, #img18, #img20, #img59, #img64{
 	-webkit-animation-delay: 2.4s;
 	-o-animation-delay: 2.4s;
 	animation-delay: 2.4s;

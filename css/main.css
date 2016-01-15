@@ -503,3 +503,32 @@ position: absolute;
     width: 291px;
     z-index: 999999;
 }
+/*Sdeli 17*/
+#img65{
+	position: absolute;
+    left: 26px;
+    top: 235px;
+}
+#img66{
+	position: absolute;
+    left: 26px;
+    top: 460px;
+}
+#img63{
+	 position: absolute;
+    right: 95px;
+    top: 220px;
+}
+#img64{
+	position: absolute;
+    right: 95px;
+    top: 424px;
+}
+#link10{
+	position: absolute;
+    left: 131px;
+    top: 232px;
+    height: 31px;
+    width: 107px;
+    z-index: 999999;
+}
