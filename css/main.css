@@ -1001,3 +1001,47 @@ position: absolute;
     width: 36px;
     z-index: 999999;
 }
+
+/*slide 27*/
+
+#img113{
+    position: absolute;
+    left: 100px;
+    top: 201px;
+}
+#img111{
+    position: absolute;
+    left: 80px;
+    top: 330px;
+}
+#img110{
+    position: absolute;
+    left: 210px;
+    top: 330px;
+}
+#img112{
+    position: absolute;
+    right: 119px;
+    top: 330px;
+}
+#img114{
+    position: absolute;
+    bottom: 76px;
+    left: 40px;
+}
+#link45{
+    position: absolute;
+    left: 199px;
+    top: 625px;
+    height: 25px;
+    width: 90px;
+    z-index: 999999;
+}
+#link46{
+    position: absolute;
+    left: 49px;
+    top: 698px;
+    height: 25px;
+    width: 200px;
+    z-index: 999999;
+}
