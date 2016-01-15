@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vitanco</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor3">
+
+		<div id="img1" class="animated fadeIn"><img src="slide21/bg.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_21.html"><img src="generales/next.png"></a></div>
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+		<!--Menu-->
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_19.html"><img src="generales/back.png"></a></div>
+
+		
+		<div id="title" class="animated fadeInLeft"><img src="slide21/title.png"></div>
+
+
+
+		<div id="img76" class="animated fadeIn"><img src="slide21/bg-tabla.png"></div>
+
+		<div id="img77" class="animated fadeInLeft"><img src="slide21/txt01.png"></div>
+
+		<div id="img78" class="animated fadeInRight"><img src="slide21/txt02.png"></div>
+
+		<div id="img79" class="animated fadeIn"><img src="slide21/txt03.png"></div>
+
+		<div id="img80" class="animated fadeIn"><img src="slide21/txt04.png"></div>
+
+		<div id="img81" class="animated fadeInLeft"><img src="slide21/ref01.png"></div>
+
+		<div id="img82" class="animated fadeInRight"><img src="slide21/ref02.png"></div>
+
+		
+
+
+		
+
+
+		<div id="Logo" class="animated fadeInUp"> <img src="generales/logo.png"></div>
+
+
+
+	</div>	
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_21.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_19.html";
+		});
+
+	</script>
+	
+</body>
+</html>

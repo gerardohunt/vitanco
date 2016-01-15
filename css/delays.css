@@ -13,13 +13,13 @@
 	-o-animation-delay: .9s;
 	animation-delay: .9s;
 }
-#txt1, #img12, #img16, #img21, #img29, #img35, #img46, #img49, #img51{
+#txt1, #img12, #img16, #img21, #img29, #img35, #img46, #img49, #img51, #img77, #img78{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
 }
 
-#img2, #img5, #img8, #img22, #img23, #img58, #img60, #img65, #img70, #img73{
+#img2, #img5, #img8, #img22, #img23, #img58, #img60, #img65, #img70, #img73, #img77{
 	-webkit-animation-delay: 1.4s;
 	-o-animation-delay: 1.4s;
 	animation-delay: 1.4s;
@@ -29,22 +29,22 @@
 	-o-animation-delay: 1.6s;
 	animation-delay: 1.6s;
 }
-#img3, #img4,#img9, #img13, #img17, #img19, #img30, #img47, #img48, #img54{
+#img76, #img3, #img4,#img9, #img13, #img17, #img19, #img30, #img47, #img48, #img54{
 	-webkit-animation-delay: 1.8s;
 	-o-animation-delay: 1.8s;
 	animation-delay: 1.8s;
 }
-#img24, #img25, #img61, #img66, #img67, #img68{
+#img24, #img25, #img61, #img66, #img67, #img68, #img76{
 	-webkit-animation-delay: 1.9s;
 	-o-animation-delay: 1.9s;
 	animation-delay: 1.9s;
 }
-#img37, #img38, #img52{
+#img81, #img82, #img37, #img38, #img52{
 	-webkit-animation-delay: 2s;
 	-o-animation-delay: 2s;
 	animation-delay: 2s;
 }
-#img26, #img27, #img31, #img39,#img74, #img75, #img41,#img50, #img55, #img62, #img69, #img72{
+#img79, #img80, #img26, #img27, #img31, #img39,#img74, #img75, #img41,#img50, #img55, #img62, #img69, #img72{
 	-webkit-animation-delay: 2.5s;
 	-o-animation-delay: 2.5s;
 	animation-delay: 2.5s;
