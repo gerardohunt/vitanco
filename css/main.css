@@ -589,3 +589,37 @@ position: absolute;
     width: 379px;
     z-index: 999999;
 }
+
+/*slide 19*/
+
+#img73{
+	position: absolute;
+    left: 100px;
+    top: 179px;
+}
+#img74{
+	position: absolute;
+    left: 73px;
+    top: 214px;
+}
+#img75{
+	position: absolute;
+    left: 840px;
+    top: 253px;
+}
+#link14{
+	position: absolute;
+    left: 547px;
+    top: 221px;
+    height: 31px;
+    width: 178px;
+    z-index: 999999;
+}
+#link15{
+position: absolute;
+    left: 547px;
+    top: 335px;
+    height: 31px;
+    width: 178px;
+    z-index: 999999;
+}
