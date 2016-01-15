@@ -201,3 +201,41 @@ position: absolute;
     right: 100px;
     bottom: 278px;
 }
+
+/*slide 8*/
+
+#img21{
+	position: absolute;
+    left: 115px;
+    top: 170px;
+}
+#img24{
+	position: absolute;
+    left: 50px;
+    top: 250px;
+}
+#img25{
+	position: absolute;
+    right: 50px;
+    top: 250px;
+}
+#img23{
+	position: absolute;
+    left: 487px;
+    top: 280px;
+}
+#img22{
+	position: absolute;
+    top: 394px;
+    left: 258px;
+}
+#img27{
+	position: absolute;
+    right: 45px;
+    bottom: 145px;
+}
+#img26{
+	position: absolute;
+    bottom: 122px;
+    left: 35px;
+}
