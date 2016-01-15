@@ -83,3 +83,20 @@ body{
     left: 366px;
     top: 247px;
 }
+/*abajo derecho*/
+
+#img1{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+#img2{
+	position: absolute;
+    right: 100px;
+    top: 200px;
+}
+#img3{
+	position: absolute;
+    right: 469px;
+    bottom: 280px;
+}
