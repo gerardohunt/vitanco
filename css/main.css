@@ -100,3 +100,24 @@ body{
     right: 469px;
     bottom: 280px;
 }
+/*slide 4*/
+#img5{
+	position: absolute;
+    left: 100px;
+    top: 188px;
+}
+#img4{
+	position: absolute;
+    left: 315px;
+    top: 285px;
+}
+#img6{
+	position: absolute;
+    left: 195px;
+    bottom: 220px;
+}
+#img7{
+	position: absolute;
+    bottom: 44px;
+    left: 135px;
+}

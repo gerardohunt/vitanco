@@ -19,15 +19,25 @@
 	animation-delay: 1.2s;
 }
 
-#img2{
+#img2, #img5{
 	-webkit-animation-delay: 1.4s;
 	-o-animation-delay: 1.4s;
 	animation-delay: 1.4s;
 }
-#img3{
+#img3, #img4{
 	-webkit-animation-delay: 1.8s;
 	-o-animation-delay: 1.8s;
 	animation-delay: 1.8s;
+}
+#img6{
+	-webkit-animation-delay: 2.4s;
+	-o-animation-delay: 2.4s;
+	animation-delay: 2.4s;
+}
+#img7{
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
 }
 
 
