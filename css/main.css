@@ -96,6 +96,12 @@ body{
 	left: 0;
 	bottom: 0;
 }
+/*arriba izquierda*/
+#img1newnew{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
 #img2{
 	position: absolute;
     right: 100px;
@@ -148,3 +154,24 @@ position: absolute;
     right: 42px;
     bottom: 60px;
     }
+/*slide 6*/
+#img12{
+	position: absolute;
+    left: 15px;
+    top: 205px;
+}
+#img13{
+	position: absolute;
+    left: 349px;
+    top: 262px;
+}
+#img14{
+	position: absolute;
+    left: 352px;
+    bottom: 294px;
+}
+#img15{
+	position: absolute;
+    bottom: 100px;
+    left: 100px;
+}

@@ -13,7 +13,7 @@
 	-o-animation-delay: .9s;
 	animation-delay: .9s;
 }
-#txt1{
+#txt1, #img12{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
@@ -24,17 +24,17 @@
 	-o-animation-delay: 1.4s;
 	animation-delay: 1.4s;
 }
-#img3, #img4,#img9{
+#img3, #img4,#img9, #img13{
 	-webkit-animation-delay: 1.8s;
 	-o-animation-delay: 1.8s;
 	animation-delay: 1.8s;
 }
-#img6, #img10{
+#img6, #img10, #img14{
 	-webkit-animation-delay: 2.4s;
 	-o-animation-delay: 2.4s;
 	animation-delay: 2.4s;
 }
-#img7, #img11{
+#img7, #img11, #img15{
 	-webkit-animation-delay: 3s;
 	-o-animation-delay: 3s;
 	animation-delay: 3s;
