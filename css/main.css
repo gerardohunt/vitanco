@@ -465,3 +465,41 @@ position: absolute;
     width: 60px;
     z-index: 999999;
 }
+/*slide 16*/
+
+#img60{
+	position: absolute;
+    left: 54px;
+    top: 180px;
+}
+#img61{
+	position: absolute;
+    left: 54px;
+    top: 295px;
+}
+#img62{
+	position: absolute;
+    left: 54px;
+    top: 469px;
+}
+#img59{
+	position: absolute;
+    right: 12px;
+    top: 305px;
+}
+#link8{
+	position: absolute;
+    left: 416px;
+    top: 299px;
+    height: 31px;
+    width: 291px;
+    z-index: 999999;
+}
+#link9{
+	position: absolute;
+    left: 261px;
+    top: 475px;
+    height: 31px;
+    width: 291px;
+    z-index: 999999;
+}
