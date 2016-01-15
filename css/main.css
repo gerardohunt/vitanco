@@ -1,0 +1,85 @@
+body{
+	margin:0;
+	padding:0;
+}
+#contenedor {
+	background: url(../slide02/bg.jpg) no-repeat left top #fff;;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
+
+#contenedor1 {
+	background: url(../slide01/portada.jpg) no-repeat left top #fff;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
+#contenedor2 {
+	background: url(../slide2/background.png) no-repeat left top #fff;;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
+#contenedor3 {
+	background-color: #fff;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
+#bg{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#btnSig{
+	height: 27px;
+	right:31px;
+	position: absolute;
+	top:37px;
+	width: 27px;
+}
+#btnAnt{
+	height: 27px;
+	right: 100px;
+	position: absolute;
+	top:37px;
+	width: 27px;
+}
+#trigger-overlay {
+	height: 49px;
+	left: 18px;
+	position: absolute;
+	top: 37px;
+	width: 49px;
+	background: url(../generales/menu.png) no-repeat center center;
+	overflow: hidden;
+	border: none;
+}
+#Logo{
+	position: absolute;
+	right: 32px;
+	bottom: 15px;
+}
+#title{
+	position: absolute;
+	top:113px;
+}
+#txt1{
+	position: absolute;
+    left: 366px;
+    top: 247px;
+}
