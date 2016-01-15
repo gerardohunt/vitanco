@@ -102,6 +102,12 @@ body{
 	top: 0;
 	left: 0;
 }
+/*arriba derecha*/
+#img1newnewnew{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
 #img2{
 	position: absolute;
     right: 100px;
@@ -325,5 +331,51 @@ position: absolute;
     top: 181px;
     height: 39px;
     width: 218px;
+    z-index: 999999;
+}
+
+/*slide 11*/
+
+#img46{
+	position: absolute;
+	top:180px;
+	left:153px;
+}
+#img47{
+	position: absolute;
+    left: 55px;
+    top: 300px;
+}
+#img41{
+	position: absolute;
+    top: 330px;
+    left: 42px;
+}
+#img42{
+	position: absolute;
+    top: 330px;
+    left: 544px;
+}
+#img43{
+	position: absolute;
+    bottom: 145px;
+    left: 42px;
+}
+#img44{
+	position: absolute;
+    bottom: 145px;
+    left: 515px;
+}
+#img45{
+	position: absolute;
+    left: 122px;
+    bottom: 27px;
+}
+#link4{
+	position: absolute;
+    left: 451px;
+    bottom: 81px;
+    height: 35px;
+    width: 147px;
     z-index: 999999;
 }
