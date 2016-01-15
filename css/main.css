@@ -1045,3 +1045,30 @@ position: absolute;
     width: 200px;
     z-index: 999999;
 }
+
+/*slide 28*/
+
+#img116{
+    position: absolute;
+    left: 37px;
+    top: 200px;
+}
+
+#img115{
+    position: absolute;
+    left: 37px;
+    top: 395px;
+}
+#img117{
+    position: absolute;
+    left: 591px;
+    top: 395px;
+}
+#link47{
+    position: absolute;
+    left: 396px;
+    top: 253px;
+    height: 25px;
+    width: 176px;
+    z-index: 999999;
+}
