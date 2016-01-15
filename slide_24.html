@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vitanco</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<link rel="stylesheet" href="css/lightbox.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor3">
+
+		<div id="img1new" class="animated fadeIn"><img src="slide24/bg.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_25.html"><img src="generales/next.png"></a></div>
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+		<!--Menu-->
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_23.html"><img src="generales/back.png"></a></div>
+
+		
+		<div id="title" class="animated fadeInLeft"><img src="slide24/title.png"></div>
+
+
+
+	
+
+		<div id="img95" class="animated fadeIn"><img src="slide24/img01.png"></div>
+
+
+		<div id="img72" class="animated fadeInLeft"><img src="slide24/ref.png"></div>
+
+		<div id="img96" class="animated fadeIn"><img src="slide24/txt01.png"></div>
+
+		
+
+		<div id="link27"><a href="#"><img style="height:100%; width:100%" src="generales/transparent.png"></a></div>
+
+
+		<div id="link28"><a href="#"><img style="height:100%; width:100%" src="generales/transparent.png"></a></div>
+		
+		<div id="link29"><a href="#"><img style="height:100%; width:100%" src="generales/transparent.png"></a></div>
+		
+
+		<div id="Logo" class="animated fadeInUp"> <img src="generales/logo.png"></div>
+
+
+
+	</div>	
+	<script src="js/jquery-1.11.1.min.js"></script>
+
+	<script src="js/lightbox.js"></script>
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_25.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_23.html";
+		});
+
+	</script>
+	
+</body>
+</html>
