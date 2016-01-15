@@ -175,3 +175,29 @@ position: absolute;
     bottom: 100px;
     left: 100px;
 }
+/*slide 7*/
+#img16{
+	position: absolute;
+    left: 242px;
+    top: 280px;
+}
+#img17{
+	 position: absolute;
+    left: 37px;
+    top: 236px;
+}
+#img18{
+	position: absolute;
+    left: 86px;
+    top: 442px;
+}
+#img19{
+	position: absolute;
+    right: 61px;
+    top: 273px;
+}
+#img20{
+	position: absolute;
+    right: 100px;
+    bottom: 278px;
+}
