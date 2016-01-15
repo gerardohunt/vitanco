@@ -766,3 +766,19 @@ position: absolute;
     right: 253px;
     bottom: 43px;
 }
+#link25{
+    position: absolute;
+    left: 251px;
+    top: 395px;
+    height: 31px;
+    width: 98px;
+    z-index: 999999;
+}
+#link26{
+    position: absolute;
+    left: 43px;
+    bottom: 19px;
+    height: 31px;
+    width: 179px;
+    z-index: 999999;
+}
