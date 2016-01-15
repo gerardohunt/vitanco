@@ -532,3 +532,60 @@ position: absolute;
     width: 107px;
     z-index: 999999;
 }
+
+/*slide 18*/
+
+#img70{
+	position: absolute;
+    left: 62px;
+    top: 170px;
+}
+#img67{
+	position: absolute;
+    left: 50px;
+    top: 340px;
+}
+#img69{
+	position: absolute;
+    left: 399px;
+    top: 340px;
+}
+#img68{
+	position: absolute;
+    left: 624px;
+    top: 340px;
+}
+#img71{
+	position: absolute;
+    bottom: 45px;
+    left: 91px;
+}
+#img72{
+	position: absolute;
+    bottom: 25px;
+    left: 17px;
+}
+#link11{
+	position: absolute;
+    left: 270px;
+    top: 220px;
+    height: 31px;
+    width: 107px;
+    z-index: 999999;
+}
+#link12{
+	position: absolute;
+    left: 360px;
+    top: 249px;
+    height: 31px;
+    width: 267px;
+    z-index: 999999;
+}
+#link13{
+position: absolute;
+    left: 432px;
+    top: 637px;
+    height: 31px;
+    width: 379px;
+    z-index: 999999;
+}
