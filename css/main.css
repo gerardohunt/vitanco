@@ -1136,3 +1136,59 @@ position: absolute;
     width: 114px;
     z-index: 999999;
 }
+
+/* slide 30*/
+
+#img143{
+    position: absolute;
+    top:195px;
+    left:120px;
+}
+#img140{
+    position: absolute;
+    left: 195px;
+    top:239px;
+}
+
+#img144{
+    position: absolute;
+    right: 36px;
+    top: 252px;
+}
+
+#img142{
+    position: absolute;
+    right: 60px;
+    bottom: 80px;
+}
+#img145{
+    position: absolute;
+    top: 310px;
+    left: 10px;
+}
+#img146{
+    position: absolute;
+    top: 433px;
+    left: 10px;
+}
+#img141{
+    position: absolute;
+    left: 201px;
+    top: 356px;
+}
+#link50{
+    position: absolute;
+    right: 44px;
+    top: 245px;
+    height: 57px;
+    width: 201px;
+    z-index: 999999;
+}
+#link51{
+    position: absolute;
+    left: 98px;
+    top: 552px;
+    height: 35px;
+    width: 125px;
+    z-index: 999999;
+}
