@@ -1318,3 +1318,31 @@ position: absolute;
     width: 125px;
     z-index: 999999;
 }
+
+/*slide 34*/
+
+#img160{
+    position: absolute;
+    left: 134px;
+    top: 190px;
+}
+#img161{
+    position: absolute;
+    left: 190px;
+    top: 300px;
+}
+#img158{
+    position: absolute;
+    left: 239px;
+    top: 392px;
+}
+#img162{
+    position: absolute;
+    bottom: 83px;
+    left: 68px;
+}
+#img159{
+    position: absolute;
+    bottom: 83px;
+    right: 33px;
+}
