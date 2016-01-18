@@ -1293,3 +1293,28 @@ position: absolute;
     width: 102px;
     z-index: 999999;
 }
+
+/* slide 33*/
+#img157{
+    position: absolute;
+    left: 50px;
+    top: 248px;
+}
+#img155{
+    position: absolute;
+    right: 50px;
+    top: 248px;
+}
+#img156{
+    position: absolute;
+    left: 40px;
+    bottom: 32px;
+}
+#link59{
+    position: absolute;
+    left: 167px;
+    bottom: 167px;
+    height: 35px;
+    width: 125px;
+    z-index: 999999;
+}
