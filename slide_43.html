@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vitanco</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<link rel="stylesheet" href="css/lightbox.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor3">
+
+		<div id="img1" class="animated fadeIn"><img src="slide43/bg.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_44.html"><img src="generales/next.png"></a></div>
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+		<!--Menu-->
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_42.html"><img src="generales/back.png"></a></div>
+
+		
+		<div id="title" class="animated fadeInLeft"><img src="slide43/title.png"></div>
+
+
+
+	
+
+		
+
+		<div id="img220" class="animated fadeIn"><img src="slide43/graph01.png"></div>
+
+		<div id="img221" class="animated fadeIn"><img src="slide43/graph02.png"></div>
+
+		<div id="img222" class="animated zoomIn"><img src="slide43/img01.png"></div>
+
+		<div id="img223" class="animated fadeInLeft"><img src="slide43/ref.png"></div>
+
+		<div id="img215" class="animated fadeInDown"><img src="slide42/txt01.png"></div>
+
+		
+		<div id="img225" class="animated fadeInUp"><img src="slide43/txt02.png"></div>
+
+		
+		
+
+
+		<div id="Logo" class="animated fadeInUp"> <img src="generales/logo.png"></div>
+
+
+
+	</div>	
+	<script src="js/jquery-1.11.1.min.js"></script>
+
+	<script src="js/lightbox.js"></script>
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_44.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_42.html";
+		});
+
+	</script>
+	
+</body>
+</html>
