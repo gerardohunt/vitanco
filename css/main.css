@@ -1845,3 +1845,35 @@ position: absolute;
     left: 441px;
     bottom: 68px;
 }
+
+/* slide 49*/
+#img267{
+    position: absolute;
+    left: 85px;
+    top: 165px;
+}
+#img268{
+    position: absolute;
+    left: 168px;
+    top: 302px;
+}
+#img264{
+   position: absolute;
+    top: 390px;
+    left: 248px; 
+}
+#img265{
+    position: absolute;
+    top: 393px;
+    left: 689px;
+}
+#img269{
+    position: absolute;
+    top: 517px;
+    left: 144px;
+}
+#img266{
+    position: absolute;
+    top: 484px;
+    left: 813px;
+}
