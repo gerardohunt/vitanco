@@ -1813,3 +1813,35 @@ position: absolute;
     bottom: 47px;
     left: 123px;
 }
+
+/* slide 48*/
+#img260{
+    position: absolute;
+    left: 65px;
+    top: 208px;
+}
+#img257{
+    position: absolute;
+    right: 118px;
+    top: 200px;
+}
+#img261{
+    position: absolute;
+    left: 81px;
+    top: 335px;
+}
+#img262{
+    position: absolute;
+    bottom: 55px;
+    left: 130px;
+}
+#img258{
+    position: absolute;
+    left: 441px;
+    bottom: 183px;
+}
+#img259{
+     position: absolute;
+    left: 441px;
+    bottom: 68px;
+}
