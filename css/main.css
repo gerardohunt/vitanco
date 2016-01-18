@@ -1461,3 +1461,42 @@ position: absolute;
     width: 112px;
     z-index: 999999;
 }
+
+/*slide 37*/
+
+#img180{
+    position: absolute;
+    top: 215px;
+    left: 23px;
+}
+
+#img177{
+    position: absolute;
+    top: 215px;
+    right: 23px;
+}
+#img178{
+    position: absolute;
+    left: 30px;
+    bottom: 31px;
+}
+#img183{
+    position: absolute;
+    bottom: 23px;
+    left: 61px;
+}
+#img181{
+    position: absolute;
+    bottom: 291px;
+    left: 119px;
+}
+#img182{
+    position: absolute;
+    bottom: 208px;
+    left: 119px;
+}
+#img179{
+    position: absolute;
+    right: 97px;
+    bottom: 75px;
+}
