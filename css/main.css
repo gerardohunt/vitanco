@@ -1500,3 +1500,36 @@ position: absolute;
     right: 97px;
     bottom: 75px;
 }
+
+/*slide 38*/
+#img186{
+    position: absolute;
+    left: 78px;
+    top: 200px;
+}
+#img187{
+    position: absolute;
+    left: 84px;
+    top: 370px;
+}
+#img188{
+    position: absolute;
+    left: 84px;
+    top: 464px;
+}
+#img184{
+    position: absolute;
+    left: 22px;
+    top: 299px;
+    z-index: 9999;
+}
+#img189{
+     position: absolute;
+    bottom: 77px;
+    left: 296px;
+}
+#img185{
+    position: absolute;
+    bottom: 18px;
+    left: 122px;
+}
