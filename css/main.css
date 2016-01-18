@@ -2013,6 +2013,8 @@ position: absolute;
     left: 167px;
     top: 553px;
 }
+
+
 #img295{
     position: absolute;
     right: 100px;
@@ -2028,4 +2030,16 @@ position: absolute;
     position: absolute;
     right: 109px;
     top: 537px;
+}
+
+/* slide 55*/
+#img302{
+    position: absolute;
+    bottom: 100px;
+    left: 125px;
+}
+#img301{
+    position: absolute;
+    bottom: 156px;
+    right: 36px;
 }
