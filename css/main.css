@@ -1397,3 +1397,67 @@ position: absolute;
     width: 236px;
     z-index: 999999;
 }
+
+/* slide 36*/
+
+#img171{
+   position: absolute;
+    left: 220px;
+    top: 205px; 
+}
+#img172{
+    position: absolute;
+    left: 83px;
+    top: 325px;
+}
+#img173{
+    position: absolute;
+    left: 100px;
+    top: 440px;
+}
+#img170{
+    position: absolute;
+    right: 100px;
+    bottom: 4px;
+}
+#img176{
+    position: absolute;
+    right: 58px;
+    top: 358px;
+}
+#img174{
+    position: absolute;
+    left: 177px;
+    bottom: 191px;
+}
+#img175{
+    position: absolute;
+    left: 30px;
+    bottom: 100px;
+}
+#img168{
+    position: absolute;
+    left: 419px;
+    bottom: 79px;
+}
+#img169{
+    position: absolute;
+    left: 181px;
+    bottom: 42px;
+}
+#link63{
+    position: absolute;
+    left: 293px;
+    bottom: 379px;
+    height: 25px;
+    width: 112px;
+    z-index: 999999;
+}
+#link64{
+    position: absolute;
+    left: 127px;
+    bottom: 301px;
+    height: 30px;
+    width: 112px;
+    z-index: 999999;
+}
