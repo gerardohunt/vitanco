@@ -2388,3 +2388,20 @@ position: absolute;
     top: 484px;
     z-index: 999;
 }
+
+/* slide 67*/
+#img401{
+     position: absolute;
+    left: 70px;
+    top: 185px;
+}
+#img402{
+    position: absolute;
+    left: 55px;
+    bottom: 60px;
+}
+#img400{
+    position: absolute;
+    left: 624px;
+    bottom: 156px;
+}
