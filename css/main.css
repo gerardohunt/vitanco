@@ -2484,3 +2484,35 @@ position: absolute;
     left: 322px;
     bottom: 25px;
 }
+
+/* slide 72*/
+#img430{
+    position: absolute;
+    top: 190px;
+    left: 191px;
+}
+#img431{
+    position: absolute;
+    top: 261px;
+    left: 324px;
+}
+#img426{
+    position: absolute;
+    top: 292px;
+    left: 58px;
+}
+#img427{
+    position: absolute;
+    top: 326px;
+    left: 159px;
+}
+#img428{
+    position: absolute;
+    top: 476px;
+    left: 401px;
+}
+#img429{
+    position: absolute;
+    right: 100px;
+    bottom: 271px;
+}
