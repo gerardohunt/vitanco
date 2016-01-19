@@ -2417,3 +2417,21 @@ position: absolute;
     left: 95px;
     top: 226px;
 }
+
+/* slide 69*/
+#img411{
+    position: absolute;
+    left: 67px;
+    top: 177px;
+}
+#img412{
+    position: absolute;
+    left: 39px;
+    top: 303px;
+}
+#img410{
+    position: absolute;
+    right: 100px;
+    bottom: 15px;
+    z-index: 999;
+}
