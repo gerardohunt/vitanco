@@ -2435,3 +2435,20 @@ position: absolute;
     bottom: 15px;
     z-index: 999;
 }
+
+/* slide 70*/
+#img413{
+    position: absolute;
+    left: 103px;
+    top: 188px;
+}
+#img414{
+    position: absolute;
+    left: 103px;
+    top: 324px;
+}
+#img415{
+    position: absolute;
+    left: 625px;
+    top: 446px;
+}

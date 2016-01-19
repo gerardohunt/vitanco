@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vitanco</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<link rel="stylesheet" href="css/lightbox.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor3">
+
+		<div id="img1newnew" class="animated fadeIn"><img src="slide70/bg.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_71.html"><img src="generales/next.png"></a></div>
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+		<!--Menu-->
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_69.html"><img src="generales/back.png"></a></div>
+
+		
+		<div id="title" class="animated fadeInLeft"><img src="slide70/title.png"></div>
+
+		
+		
+
+		<div id="img413" class="animated fadeIn"><img src="slide70/bullet01.png"></div>
+
+		<div id="img414" class="animated fadeIn"><img src="slide70/bullet02.png"></div>
+
+		<div id="img415" class="animated zoomIn"><img src="slide70/img01.png"></div>		
+
+		
+
+
+
+
+		<div id="Logo" class="animated fadeInUp"> <img src="generales/logo.png"></div>
+
+
+
+	</div>	
+	<script src="js/jquery-1.11.1.min.js"></script>
+
+	<script src="js/lightbox.js"></script>
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_71.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_69.html";
+		});
+
+	</script>
+	
+</body>
+</html>
