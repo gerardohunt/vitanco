@@ -2370,3 +2370,21 @@ position: absolute;
     left: 625px;
     top: 382px;
 }
+
+/* slide 66*/
+#img397{
+    position: absolute;
+    left: 95px;
+    top: 185px;
+}
+#img398{
+    position: absolute;
+    left: 196px;
+    top: 240px;
+}
+#img396{
+    position: absolute;
+    left: 396px;
+    top: 484px;
+    z-index: 999;
+}
