@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vitanco</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<link rel="stylesheet" href="css/lightbox.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor3">
+
+		<div id="img1" class="animated fadeIn"><img src="slide63/bg.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_64.html"><img src="generales/next.png"></a></div>
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+		<!--Menu-->
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_62.html"><img src="generales/back.png"></a></div>
+
+		
+		<div id="title" class="animated fadeInLeft"><img src="slide63/title.png"></div>
+
+		
+		
+
+		<div id="img380" class="animated fadeIn"><img src="slide63/bullet01.png"></div>
+
+		<div id="img381" class="animated fadeIn"><img src="slide63/bullet02.png"></div>
+
+		<div id="img382" class="animated fadeIn"><img src="slide63/bullet03.png"></div>
+
+		<div id="img383" class="animated fadeIn"><img src="slide63/bullet04.png"></div>
+
+	
+
+		<div id="img304" class="animated fadeInDown"><img src="slide63/txt01.png"></div>
+
+		<div id="img384" class="animated fadeInUp"><img src="slide63/txt02.png"></div>
+
+		<div id="img385" class="animated fadeIn"><img src="slide63/txt03.png"></div>
+
+		
+
+
+
+		
+
+
+
+
+
+		<div id="Logo" class="animated fadeInUp"> <img src="generales/logo.png"></div>
+
+
+
+	</div>	
+	<script src="js/jquery-1.11.1.min.js"></script>
+
+	<script src="js/lightbox.js"></script>
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_64.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_62.html";
+		});
+
+	</script>
+	
+</body>
+</html>
