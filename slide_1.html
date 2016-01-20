@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Vitanco</title>
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/components.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/delays.css">
 	<script src="js/modernizr.custom.js"></script>
@@ -11,9 +12,7 @@
 <body id="touch">
 	<div id="contenedor">
 		<div id="btnSig" class="animated fadeInDown"><a href="slide_2.html"><img src="generales/next.png"></a></div>
-		<!--Menu-->
-		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
-		<!--Menu-->
+
 		<div id="btnAnt" class="animated fadeInDown"><a href="index.html"><img src="generales/back.png"></a></div>
 
 		
@@ -26,8 +25,127 @@
 		<div id="Logo" class="animated fadeInUp"> <img src="generales/logo.png"></div>
 
 
+		<!--Menu-->
+		<div class="main clearfix demo-2">
+			<div class="column">
+				<div id="dl-menu" class="dl-menuwrapper">
+
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft  dl-trigger"></button>
+
+				<ul class="dl-menu">
+							<li id="opcion1">
+								<a href="slide_1.html">Estrés</a>
+
+								<ul class="dl-submenu">
+									<li>
+										<a href="slide_1.html">Introducción</a>
+										
+									</li>
+									<li>
+										<a href="#">Women</a>
+										<ul class="dl-submenu">
+											<li><a href="#">Jackets</a></li>
+											<li><a href="#">Knits</a></li>
+											<li><a href="#">Jeans</a></li>
+											<li><a href="#">Dresses</a></li>
+											<li><a href="#">Blouses</a></li>
+											<li><a href="#">T-Shirts</a></li>
+											<li><a href="#">Underwear</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="#">Children</a>
+										<ul class="dl-submenu">
+											<li><a href="#">Boys</a></li>
+											<li><a href="#">Girls</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">Biología del estrés</a>
+								<ul class="dl-submenu">
+									<li><a href="#">Camera &amp; Photo</a></li>
+									<li><a href="#">TV &amp; Home Cinema</a></li>
+									<li><a href="#">Phones</a></li>
+									<li><a href="#">PC &amp; Video Games</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">Prevalencia del estrés y su impacto en la población</a>
+								<ul class="dl-submenu">
+									<li>
+										<a href="#">Living Room</a>
+										<ul class="dl-submenu">
+											<li><a href="#">Sofas &amp; Loveseats</a></li>
+											<li><a href="#">Coffee &amp; Accent Tables</a></li>
+											<li><a href="#">Chairs &amp; Recliners</a></li>
+											<li><a href="#">Bookshelves</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="#">Bedroom</a>
+										<ul class="dl-submenu">
+											<li>
+												<a href="#">Beds</a>
+												<ul class="dl-submenu">
+													<li><a href="#">Upholstered Beds</a></li>
+													<li><a href="#">Divans</a></li>
+													<li><a href="#">Metal Beds</a></li>
+													<li><a href="#">Storage Beds</a></li>
+													<li><a href="#">Wooden Beds</a></li>
+													<li><a href="#">Children's Beds</a></li>
+												</ul>
+											</li>
+											<li><a href="#">Bedroom Sets</a></li>
+											<li><a href="#">Chests &amp; Dressers</a></li>
+										</ul>
+									</li>
+									<li><a href="#">Home Office</a></li>
+									<li><a href="#">Dining &amp; Bar</a></li>
+									<li><a href="#">Patio</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">Jewelry &amp; Watches</a>
+								<ul class="dl-submenu">
+									<li><a href="#">Fine Jewelry</a></li>
+									<li><a href="#">Fashion Jewelry</a></li>
+									<li><a href="#">Watches</a></li>
+									<li>
+										<a href="#">Wedding Jewelry</a>
+										<ul class="dl-submenu">
+											<li><a href="#">Engagement Rings</a></li>
+											<li><a href="#">Bridal Sets</a></li>
+											<li><a href="#">Women's Wedding Bands</a></li>
+											<li><a href="#">Men's Wedding Bands</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+
+
+	</div>
+	</div>
+	</div>
+		<!--Menu-->
+
+
 
 	</div>	
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="js/jquery.dlmenu.js"></script>
+		<script>
+			$(function() {
+				$( '#dl-menu' ).dlmenu({
+					animationClasses : { classin : 'dl-animate-in-2', classout : 'dl-animate-out-2' }
+				});
+			});
+		</script>
 	<script type="text/javascript" src="js/hammer.min.js"></script>
 	<script>
 		

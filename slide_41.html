@@ -4,16 +4,17 @@
 	<meta charset="UTF-8">
 	<title>Vitanco</title>
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/components.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<link rel="stylesheet" type="text/css" href="css/lightbox.css">
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <body id="touch">
 	<div id="contenedor">
 		<div id="btnSig" class="animated fadeInDown"><a href="slide_42.html"><img src="generales/next.png"></a></div>
-		<!--Menu-->
-		<button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
-		<!--Menu-->
+		
 		<div id="btnAnt" class="animated fadeInDown"><a href="slide_40.html"><img src="generales/back.png"></a></div>
 
 		
@@ -27,7 +28,134 @@
 
 
 
+		<!--Menu-->
+		<div class="main clearfix demo-2">
+			<div class="column">
+				<div id="dl-menu" class="dl-menuwrapper">
+
+		<button type="button" id="trigger-overlay" class="animated fadeInLeft  dl-trigger"></button>
+
+				<ul class="dl-menu">
+					<button type="button" id="close" class="overlay-close">Close</button>
+
+
+							<li id="opcion1" style="margin-top:50px">
+								<a href="slide_3.html"><img src="menu/01.png"></a>
+
+								<ul class="dl-submenu">
+									<li>
+										<a href="slide_4.html"><img src="menu/011.png"></a>
+										
+									</li>
+									<li>
+										<a href="slide_6.html"><img src="menu/012.png"></a>
+										
+									</li>
+									<li>
+										<a href="slide_8.html"><img src="menu/013.png"></a>
+									</li>
+									<li>
+										<a href="slide_10.html"><img src="menu/014.png"></a>
+									</li>
+									<li>
+										<a href="slide_11.html"><img src="menu/015.png"></a>
+									</li>
+									<li>
+										<a href="slide_12.html"><img src="menu/016.png"></a>
+									</li>
+								</ul>
+							</li>
+
+
+
+							<li>
+								<a href="slide_13.html"><img src="menu/02.png"></a>
+
+								<ul class="dl-submenu" style="margin-top:50px">
+									<li>
+										<a href="slide_14.html"><img src="menu/021.png"></a>
+										
+									</li>
+									<li>
+										<a href="slide_19.html"><img src="menu/022.png"></a>
+										<ul class="dl-submenu" style="margin-top:50px">
+													<li><a href="slide_20.html"><img src="menu/0221.png"></a></li>
+													<li><a href="slide_25.html"><img src="menu/0222.png"></a></li>
+													<li><a href="slide_29.html"><img src="menu/0223.png"></a></li>
+													<li><a href="slide_32.html"><img src="menu/0224.png"></a></li>
+													<li><a href="slide_33.html"><img src="menu/0225.png"></a></li>
+													<li><a href="slide_34.html"><img src="menu/0226.png"></a></li>
+													<li><a href="slide_36.html"><img src="menu/0227.png"></a></li>
+													<li><a href="slide_38.html"><img src="menu/0228.png"></a></li>
+													<li><a href="slide_39.html"><img src="menu/0229.png"></a></li>
+												</ul>
+										
+									</li>
+									<li>
+										<a href="slide_1.html"><img src="menu/023.png"></a>
+									</li>
+									
+								</ul>
+							</li>
+
+
+
+							<li>
+								<a href="slide_41.html"><img src="menu/03.png"></a>
+								
+							</li>
+							<li>
+								<a href="slide_45.html"><img src="menu/04.png"></a>
+								<ul class="dl-submenu" style="margin-top:50px">
+									<li><a href="slide_46.html"><img src="menu/042.png"></a></li>
+									<li><a href="slide_49.html"><img src="menu/043.png"></a></li>
+									<li><a href="slide_50.html"><img src="menu/044.png"></a></li>
+									<li><a href="slide_51.html"><img src="menu/045.png"></a></li>
+									<li><a href="slide_52.html"><img src="menu/046.png"></a></li>
+									<li><a href="slide_54.html"><img src="menu/047.png"></a></li>
+								</ul>
+							</li>
+							<li><a href="slide_56.html"><img src="menu/05.png"></a></li>
+							<li>
+								<a href="slide_64.html"><img src="menu/06.png"></a>
+								<ul class="dl-submenu" style="margin-top:50px">
+									<li><a href="slide_65.html"><img src="menu/061.png"></a></li>
+									<li><a href="slide_66.html"><img src="menu/062.png"></a></li>
+									<li><a href="slide_67.html"><img src="menu/063.png"></a></li>
+									<li><a href="slide_69.html"><img src="menu/064.png"></a></li>
+									<li><a href="slide_71.html"><img src="menu/065.png"></a></li>
+									
+								</ul>
+							</li>
+							<li>
+								<a href="slide_74.html"><img src="menu/07.png"></a>
+								
+							</li>
+							<li>
+								<a href="slide_79.html"><img src="menu/08.png"></a>
+								
+							</li>
+						</ul>
+
+
+	</div>
+	</div>
+	</div>
+		<!--Menu-->
+
+
+
 	</div>	
+
+	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/jquery.dlmenu.js"></script>
+		<script>
+			$(function() {
+				$( '#dl-menu' ).dlmenu({
+					animationClasses : { classin : 'dl-animate-in-2', classout : 'dl-animate-out-2' }
+				});
+			});
+		</script>
 	<script type="text/javascript" src="js/hammer.min.js"></script>
 	<script>
 		
