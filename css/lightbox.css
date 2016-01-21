@@ -8,7 +8,8 @@ body:after {
   top: 0;
   left: 0;
   z-index: 9999;
-  background-color: black;
+  /*background-color: black;*/
+  background-color: white;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
   opacity: 0.8;
   display: none;
@@ -123,6 +124,9 @@ body:after {
   -moz-border-radius-bottomright: 4px;
   -webkit-border-bottom-right-radius: 4px;
   border-bottom-right-radius: 4px;
+      z-index: 999999999;
+    position: absolute;
+    top: 0;
 }
 
 .lb-dataContainer:after {
@@ -163,4 +167,33 @@ body:after {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
+}
+
+.lb-data .lb-close {
+  display: block;
+  float: right;
+  width: 30px;
+  height: 30px;
+  background: url(../generales/close.png) top right no-repeat;
+  text-align: right;
+  outline: none;
+}
+
+.lb-closeContainer{
+      position: absolute;
+    right: 0;
+    top: -20px;
+    width: 40px;
+    height: 40px;
+}
+
+.lb-closeContainer .lb-close{
+      background-image: url(../generales/close.png);
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-color: #FFF;
 }
