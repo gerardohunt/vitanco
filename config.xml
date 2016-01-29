@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+	xmlns:gap   = "http://phonegap.com/ns/1.0"
+	id          = "com.phonegap.vitanco"
+	version     = "0.0.1">
+
+	<name>Vitanco</name>
+	
+	<description>App para VITANCO</description>
+	
+	<author href="http://hunt.com.mx" email="comunicacion@hunt.com.mx">Hunt Publicidad</author>
+	
+	<preference name="webviewbounce" value="false" />
+	<preference name="prerendered-icon" value="true" />
+	<preference name="ios-statusbarstyle" value="black-translucent" />
+	<preference name="fullscreen" value="true" />
+	<preference name="orientation" value="landscape" />
+	<preference name="target-device" value="universal" />
+	
+	<gap:platform name="android" />
+	
+	<icon src="icon.png" />
+	
+	<gap:splash src="assets/images/template/startup_landscape.jpg" gap:platform="ios" width="1024" height="768" />
+	<gap:splash src="assets/images/template/startup_portrait.jpg" gap:platform="ios" width="768" height="1024" />
+
+</widget>
