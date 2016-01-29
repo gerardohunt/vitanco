@@ -127,13 +127,18 @@ body{
 }
 #img2{
 	position: absolute;
-    right: 100px;
-    top: 200px;
+    right: 50px;
+    top: 120px;
 }
 #img3{
 	position: absolute;
-    right: 469px;
-    bottom: 280px;
+    right: 284px;
+    bottom: 404px;
+}
+#img3nuevonew{
+    position: absolute;
+    right: 107px;
+    bottom: 210px;
 }
 /*slide 4*/
 #img5{
