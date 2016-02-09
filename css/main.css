@@ -1510,13 +1510,13 @@ position: absolute;
 
 #img177{
     position: absolute;
-    top: 215px;
-    right: 23px;
+    top: 516px;
+    right: 623px;
 }
 #img178{
     position: absolute;
-    left: 30px;
-    bottom: 31px;
+    left: 431px;
+    bottom: 346px;
 }
 #img183{
     position: absolute;
@@ -1525,18 +1525,23 @@ position: absolute;
 }
 #img181{
     position: absolute;
-    bottom: 291px;
-    left: 119px;
+    bottom: 421px;
+    left: 152px;
 }
 #img182{
     position: absolute;
-    bottom: 208px;
-    left: 119px;
+    bottom: 346px;
+    left: 41px;
 }
 #img179{
     position: absolute;
-    right: 97px;
-    bottom: 75px;
+    right: 149px;
+    bottom: 28px;
+}
+#img179new{
+    position: absolute;
+    bottom: 249px;
+    left: 149px;
 }
 
 /*slide 38*/
@@ -2611,5 +2616,45 @@ position: absolute;
     top: 523px;
     height: 25px;
     width: 96px;
+    z-index: 999999;
+}
+#link6056{
+    position: absolute;
+    left: 71px;
+    bottom: 112px;
+    height: 30px;
+    width: 116px;
+    z-index: 999999;
+}
+#link6057{
+    position: absolute;
+    left: 624px;
+    bottom: 161px;
+    height: 30px;
+    width: 126px;
+    z-index: 999999;
+}
+#link6058{
+    position: absolute;
+    left: 624px;
+    bottom: 127px;
+    height: 30px;
+    width: 81px;
+    z-index: 999999;
+}
+#link6059{
+    position: absolute;
+    left: 522px;
+    bottom: 367px;
+    height: 30px;
+    width: 121px;
+    z-index: 999999;
+}
+#link6060{
+    position: absolute;
+    left: 648px;
+    bottom: 367px;
+    height: 30px;
+    width: 98px;
     z-index: 999999;
 }
